@@ -1,0 +1,41 @@
+[
+  {
+    "source": "^I am on Facebook home page$",
+    "flags": "",
+    "file_colon_line": "features/step_difinitions/all_steps.rb:1",
+    "steps": [
+      {
+        "name": "I am on Facebook home page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I shall type valid email into email text box$",
+    "flags": "",
+    "file_colon_line": "features/step_difinitions/all_steps.rb:5",
+    "steps": [
+      {
+        "name": "I shall type valid email into email text box",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I shall type valid password into password box$",
+    "flags": "",
+    "file_colon_line": "features/step_difinitions/all_steps.rb:9",
+    "steps": [
+      {
+        "name": "I shall type valid password into password box",
+        "args": [
+
+        ]
+      }
+    ]
+  }
+]
